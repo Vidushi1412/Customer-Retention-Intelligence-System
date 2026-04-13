@@ -1,0 +1,34 @@
+feature,mean_shap,mean_abs_shap,pct_positive,direction
+InternetService_Fiber optic,-0.1792,0.7981,43.5,risk_reducing
+PaymentMethod_Electronic check,-0.2502,0.7559,33.6,risk_reducing
+MonthlyCharges,-0.0888,0.6714,52.7,risk_reducing
+charge_per_service,0.0297,0.4996,56.8,risk_increasing
+OnlineSecurity,-0.1751,0.3828,71.89999999999999,risk_reducing
+TechSupport,-0.1506,0.3674,72.0,risk_reducing
+tenure,-0.0939,0.3668,41.099999999999994,risk_reducing
+contract_risk_score,-0.0527,0.3645,54.900000000000006,risk_reducing
+monthly_to_total_ratio,-0.0467,0.3493,41.099999999999994,risk_reducing
+OnlineBackup,-0.0752,0.3122,68.0,risk_reducing
+DeviceProtection,-0.0311,0.3117,66.4,risk_reducing
+MultipleLines_Yes,-0.038,0.2692,41.199999999999996,risk_reducing
+PaymentMethod_Credit card (automatic),-0.0204,0.2655,23.599999999999998,risk_reducing
+fiber_optic,0.023,0.2375,56.49999999999999,risk_increasing
+PaymentMethod_Mailed check,0.0211,0.2076,23.1,risk_increasing
+Dependents,-0.0903,0.2067,69.39999999999999,risk_reducing
+PhoneService,-0.0608,0.19,8.7,risk_reducing
+StreamingMovies,-0.0253,0.1619,62.5,risk_reducing
+TotalCharges,-0.0159,0.1453,47.699999999999996,risk_reducing
+gender_Male,-0.0326,0.125,50.3,risk_reducing
+digital_payment_risk,0.0027,0.1226,75.1,risk_increasing
+StreamingTV,-0.0102,0.1153,63.6,risk_reducing
+PaperlessBilling,-0.0041,0.1003,58.8,risk_reducing
+Partner,-0.0149,0.085,51.7,risk_reducing
+Contract_One year,-0.0198,0.061,65.7,risk_reducing
+tenure_group,-0.0019,0.0464,34.5,risk_reducing
+SeniorCitizen,0.0008,0.0396,82.8,risk_increasing
+MultipleLines_No phone service,-0.0117,0.0395,8.7,risk_reducing
+service_count,0.0018,0.0355,41.199999999999996,risk_increasing
+Contract_Two year,-0.0038,0.0186,60.8,risk_reducing
+support_gap,0.0009,0.0093,79.80000000000001,risk_increasing
+senior_no_support,-0.0008,0.0084,49.7,risk_reducing
+InternetService_No,0.0016,0.0055,34.1,risk_increasing

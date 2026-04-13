@@ -1,0 +1,4 @@
+risk_tier,n_customers,avg_churn_prob,actual_churn_rate,avg_monthly_rev,total_annual_risk
+Low,639,0.096,0.058,54.29,43959
+Medium,256,0.436,0.293,69.65,93733
+High,514,0.825,0.51,73.5,374319
