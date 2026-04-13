@@ -1,12 +1,10 @@
-# 📡 Telco Customer Churn Prediction
+# Telco Customer Churn Prediction
 
 > End-to-end ML pipeline predicting telecom customer attrition — featuring class imbalance handling, model explainability with SHAP, customer risk segmentation, and a Streamlit retention dashboard.
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python) ![XGBoost](https://img.shields.io/badge/XGBoost-AUC_0.865-orange) ![SHAP](https://img.shields.io/badge/SHAP-Explainability-purple) ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?logo=streamlit)
-
 ---
 
-## 📌 Project Summary
+## Project Summary
 
 Predicts which telecom customers are likely to churn using the **IBM Telco Customer Churn dataset** (7,043 customers, 26.5% churn rate). Delivers a segmented risk report with per-customer SHAP explanations and business recommendations.
 
@@ -26,7 +24,7 @@ Predicts which telecom customers are likely to churn using the **IBM Telco Custo
 
 ---
 
-## 📁 Project Structure
+##Project Structure
 
 ```
 project3_telco_churn/
@@ -59,7 +57,7 @@ project3_telco_churn/
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/telco-churn-prediction.git
@@ -81,7 +79,7 @@ streamlit run dashboard/app.py
 
 ---
 
-## 🔍 Feature Engineering Highlights
+## Feature Engineering Highlights
 
 | Feature | Rationale |
 |---------|-----------|
@@ -94,7 +92,7 @@ streamlit run dashboard/app.py
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 Python · pandas · scikit-learn · XGBoost · LightGBM · SHAP · MLflow · Optuna · imbalanced-learn · Streamlit · Plotly
 
 ---
